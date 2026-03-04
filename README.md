@@ -8,8 +8,8 @@ Due implementazioni didattiche di un **albero binario di ricerca** in C#, per st
 
 | Progetto | Descrizione |
 |---|---|
-| 📁 `AlberoConNodi` | Albero binario con classi `Nodo` e puntatori |
-| 📁 `AlberoConVettore` | Albero binario rappresentato con un array |
+| 📁 `Albero_e_files` | Albero binario con classi `Nodo` e puntatori |
+| 📁 `Con_gli_array` | Albero binario rappresentato con un array |
 
 ---
 
@@ -51,10 +51,10 @@ dotnet run
 
 ```
 📦 tuo-repo
- ┣ 📁 AlberoConNodi
+ ┣ 📁 Albero_e_files
  ┃  ┣ 📄 Program.cs
  ┃  ┗ 📄 albero.txt
- ┣ 📁 AlberoConVettore
+ ┣ 📁 Con_gli_Array
  ┃  ┣ 📄 Program.cs
  ┃  ┗ 📄 vettore.txt
  ┗ 📄 README.md
@@ -62,7 +62,7 @@ dotnet run
 
 ---
 
-## ▶️ Esempio di output — AlberoConNodi
+## ▶️ Esempio di output — Albero_e_files
 
 ```
 --- MENU ---
@@ -95,7 +95,7 @@ Albero salvato in: albero.txt
 
 ---
 
-## ▶️ Esempio di output — AlberoConVettore
+## ▶️ Esempio di output — Con_gliArray
 
 ```
 --- MENU ---
