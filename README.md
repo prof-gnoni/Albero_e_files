@@ -33,15 +33,15 @@ Due implementazioni didattiche di un **albero binario di ricerca** in C#, per st
 
 ### Avvio
 ```bash
-git clone https://github.com/tuo-username/tuo-repo.git
-cd tuo-repo
+git clone https://github.com/prof-gnoni/Albero_e_files.git
+cd Albero_e_files
 
 # Progetto con nodi
-cd AlberoConNodi
+cd Albero_e_Files
 dotnet run
 
 # Progetto con vettore
-cd ../AlberoConVettore
+cd ../Con_gli_Array
 dotnet run
 ```
 
@@ -50,7 +50,7 @@ dotnet run
 ## 📁 Struttura del repository
 
 ```
-📦 tuo-repo
+📦 Albero_e_files
  ┣ 📁 Albero_e_files
  ┃  ┣ 📄 Program.cs
  ┃  ┗ 📄 albero.txt
